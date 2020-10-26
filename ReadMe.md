@@ -14,5 +14,3 @@
   This application automatically generates a ReadMe file based on user responses to prompts.
   ReadMe Generator provides back-end prompts to facilitate seamless generation of developer ReadMe documentation.
   Install Inquirer for functionality of ReadMe Generator.
-  None.
-  None.
